@@ -1,10 +1,5 @@
-*) questioni logistiche
-    -) esame: leggere codice e scrivere codice
-    -) laboratorio: squadre, etc
-    -) esercitazioni: portatevi il pc
-    -) libri: programmazione C
 
-## funzioni intere come soluzione a tutti i problemi dell'umanità
+## Funzioni intere come soluzione a tutti i problemi dell'umanità
 Se tutta l'informazione che ci interessa è codificabile con dei numeri, cosa
 vuol dire elaborarla?
 Qualche esempio:
@@ -47,3 +42,41 @@ Without further ado, ecco la funzione costante, in python:
     def f(x):
         return 0
 
+Ed ecco la stessa funzione, in C:
+
+    int f(int x)
+    {
+        
+    }
+
+Una volta definita la funzione, possiamo *valutarla*:
+
+    f(10)
+    > 0
+    f(0)
+    > 0
+    etc.
+
+Domanda: come facciamo ad essere sicuri che la nostra funzione *funzioni* per
+tutti i valori di ingresso possibili?
+
+Ok, proviamo qualcosa di più ardito...
+
+Funzione costante: a un valore, fa corrispondere sé stesso
+
+def f(x):
+    return x
+
+    f(1)
+    > 1
+
+Notate che le nostre funzioni sono:
+1) *pure*: non cambiano niente, nel mondo
+2) *deterministiche*: dipendono solo dal valore in ingresso, e allo stesso
+valore fanno corrispondere sempre lo stesso risultato
+
+## Questioni logistiche
+    - esame: leggere codice e scrivere codice
+    - laboratorio: squadre, orari, etc
+    - esercitazioni: portatevi il pc
+    - libri: programmazione C
