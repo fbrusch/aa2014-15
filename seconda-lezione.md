@@ -76,7 +76,8 @@ Notate che le nostre funzioni sono:
 valore fanno corrispondere sempre lo stesso risultato
 
 ## Questioni logistiche
-    - esame: leggere codice e scrivere codice
-    - laboratorio: squadre, orari, etc
-    - esercitazioni: portatevi il pc
-    - libri: programmazione C
+
+- esame: leggere codice e scrivere codice
+- laboratorio: squadre, orari, etc
+- esercitazioni: portatevi il pc
+- libri: programmazione C
