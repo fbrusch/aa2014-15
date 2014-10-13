@@ -46,7 +46,7 @@ Ed ecco la stessa funzione, in C:
 
     int f(int x)
     {
-        
+        return 0;        
     }
 
 Una volta definita la funzione, possiamo *valutarla*:
