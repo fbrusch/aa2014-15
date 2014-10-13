@@ -4,12 +4,12 @@ Se tutta l'informazione che ci interessa è codificabile con dei numeri, cosa
 vuol dire elaborarla?
 Qualche esempio:
 
-1) tradurre un testo
-2) prevedere che tempo farà
-3) data una foto, identificare di chi è il volto (o quanti anni ha il tipo
+1. tradurre un testo
+2. prevedere che tempo farà
+3. data una foto, identificare di chi è il volto (o quanti anni ha il tipo
 della foto) 
-4) guidare la macchina?
-5) photoshoppare la foto di vostra cugina al saggio di danza, per farla
+4. guidare la macchina?
+5. photoshoppare la foto di vostra cugina al saggio di danza, per farla
 somigliare a Shakira
     
 In tutti questi casi, l'elaborazione consuma un numero intero e produce un
